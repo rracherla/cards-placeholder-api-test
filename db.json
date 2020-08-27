@@ -1,28 +1,22 @@
 {
-  "data": [
-    {
-      "title": "Headline Lorem Dolor sit amet ipsum",
-      "imageUrl": "https://source.unsplash.com/collection/2088686/720x400/",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. amet lacus sociis.",
-      "tabs": [
-        {
-          "tabName": "Overview",
-          "tabType": "textWithButton",
-          "icons": [
-            "<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
-            "<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
-            "<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
-            "<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
-          ],
-          "text": "<p> Nulla luctus pharetra vulputate, felis tellus mollis orci, rhoncus sapien nunc eget odio. Lorem ipsum dolor amet, consectetur </p>",
-          "buttons": [
-            {
-              "url": "#",
-              "text": "Product page Info CTA"
-            }
-          ]
-        },
-      ]
-    },
-  ]
+	"data": [{
+		"title": "Headline Lorem Dolor sit amet ipsum",
+		"imageUrl": "https://source.unsplash.com/collection/2088686/720x400/",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. amet lacus sociis.",
+		"tabs": [{
+			"tabName": "Overview",
+			"tabType": "textWithButton",
+			"icons": [
+				"<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
+				"<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
+				"<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>",
+				"<svg viewBox=\"0 0 188 188\"> <circle cx=\"94\" cy=\"94\" r=\"94\" fill=\"#fff\" /> <path d=\"M148.49,61.73l-7.94-7.94a5.62,5.62,0,0,0-7.94,0L80,106.43,55.39,81.85a5.62,5.62,0,0,0-7.94,0l-7.94,7.94a5.62,5.62,0,0,0,0,7.94L76,134.21a5.62,5.62,0,0,0,7.94,0l64.55-64.55A5.61,5.61,0,0,0,148.49,61.73Z\" fill=\"#00203c\" /> </svg>"
+			],
+			"text": "<p> Nulla luctus pharetra vulputate, felis tellus mollis orci, rhoncus sapien nunc eget odio. Lorem ipsum dolor amet, consectetur </p>",
+			"buttons": [{
+				"url": "#",
+				"text": "Product page Info CTA"
+			}]
+		}]
+	}]
 }
