@@ -47,6 +47,9 @@
 				},{
 					"color": "blue",
 					"text": "40-60lbs"
+				},{
+					"color": "brown",
+					"text": "60-120lbs"
 				}]
 			}, {
 				"type": "dualImage",
@@ -59,6 +62,12 @@
 					"text": "10 x 10ml vials"
 				}]
 			}]
+		}, {
+			"title": "Reviews",
+			"type": "reviews",
+			"imageUrl": "https://source.unsplash.com/collection/1242253/80*80",
+			"avgReviewRating": 2.5,
+			"totalReviews": 415
 		}]
 	}]
 }
