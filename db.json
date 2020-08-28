@@ -2,7 +2,7 @@
 	"data": [{
 		"title": "Headline Lorem Dolor sit amet ipsum",
 		"imageUrl": "https://source.unsplash.com/collection/2088686/720x400/",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. amet lacus sociis.",
+		"logoImageUrl": "https://source.unsplash.com/collection/2088686/120x40/",
 		"tabs": [{
 			"title": "Overview",
 			"type": "textWithButton",
