@@ -3,6 +3,14 @@
 		"title": "Headline Lorem Dolor sit amet ipsum",
 		"imageUrl": "https://source.unsplash.com/collection/2088686/720x400/",
 		"logoImageUrl": "https://source.unsplash.com/collection/2088686/120x40/",
+		"mainCta": {
+			"url": "#",
+			"text": "WTB CTA"
+		},
+		"secondaryCta": {
+			"url": "#",
+			"text": "Product Label"
+		},
 		"tabs": [{
 			"title": "Overview",
 			"type": "textWithButton",
