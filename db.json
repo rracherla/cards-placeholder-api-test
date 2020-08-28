@@ -17,6 +17,17 @@
 				"url": "#",
 				"text": "Product page Info CTA"
 			}]
+		}, {
+			"title": "Safety",
+			"type": "textWithButtonAlt",
+			"text": "<p> Felis tellus mollis orci, rhoncus, spien nunc eget odio. Lorem ipsum sit dolor proin elixr. sit anur san torin </p>",
+			"buttons": [{
+				"url": "#",
+				"text": "Product Label"
+			}, {
+				"url": "#",
+				"text": "Product Label"
+			}]
 		}]
 	}]
 }
