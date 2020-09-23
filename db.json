@@ -114,8 +114,8 @@
 			"title": "Reviews",
 			"type": "reviews",
 			"imageUrl": "https://source.unsplash.com/collection/1242253/80*80",
-			"avgReviewRating": 2.5,
-			"totalReviews": 415
+			"avgReviewRating": 3.2,
+			"totalReviews": 420
 		}]
 	},{
 		"title": "3rd Card",
@@ -173,8 +173,8 @@
 			"title": "Reviews",
 			"type": "reviews",
 			"imageUrl": "https://source.unsplash.com/collection/1242253/80*80",
-			"avgReviewRating": 2.5,
-			"totalReviews": 415
+			"avgReviewRating": 4.5,
+			"totalReviews": 430
 		}]
 	}]
 }
