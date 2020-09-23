@@ -117,5 +117,64 @@
 			"avgReviewRating": 2.5,
 			"totalReviews": 415
 		}]
+	},{
+		"title": "3rd Card",
+		"imageUrl": "https://source.unsplash.com/collection/2088686/720x400/",
+		"logoImageUrl": "https://source.unsplash.com/collection/2088686/120x40/",
+		"mainCta": {
+			"url": "#",
+			"text": "WTB CTA"
+		},
+		"type": {
+	      "id": 1,
+	      "text": "Type 1"
+	    },
+		"secondaryCta": {
+			"url": "#",
+			"text": "Product Label"
+		},
+		"tabs": [{
+			"title": "Overview",
+			"type": "textWithButton",
+			"text": "<p> 3rd Card data inside tabs </p>",
+			"buttons": [{
+				"url": "#",
+				"text": "Product page Info CTA"
+			}]
+		}, {
+			"title": "Safety",
+			"type": "textWithButtonAlt",
+			"text": "<p> Safety tab test data for 3rd card. </p>",
+			"buttons": [{
+				"url": "#",
+				"text": "Product Label"
+			}, {
+				"url": "#",
+				"text": "Product Label"
+			}]
+		}, {
+			"title": "Spec",
+			"type": "categories",
+			"categories": [{
+				"type": "multiImage",
+				"title": "Weight bands",
+				"subCategories": [{
+					"color": "purple",
+					"text": "5-10lbs"
+				},{
+					"color": "brown",
+					"text": "60-120lbs"
+				}]
+			}, {
+				"type": "dualImage",
+				"title": "Dosage / Pack size"
+			}]
+		}, {
+			"title": "Reviews",
+			"type": "reviews",
+			"imageUrl": "https://source.unsplash.com/collection/1242253/80*80",
+			"avgReviewRating": 2.5,
+			"totalReviews": 415
+		}]
 	}]
 }
