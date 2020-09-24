@@ -134,7 +134,7 @@
 			"text": "Product Label"
 		},
 		"tabs": [{
-			"title": "Overview",
+			"title": "3rd Overview",
 			"type": "textWithButton",
 			"text": "<p> 3rd Card data inside tabs </p>",
 			"buttons": [{
