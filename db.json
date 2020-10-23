@@ -75,7 +75,7 @@
 			"text": "Product Label"
 		},
 		"tabs": [{
-			"title": "Overview test",
+			"title": "Overview",
 			"type": "textWithButton",
 			"text": "<p>Testing card data on filter change</p>",
 			"buttons": [{
@@ -134,7 +134,7 @@
 			"text": "Product Label"
 		},
 		"tabs": [{
-			"title": "3rd Overview",
+			"title": "Overview",
 			"type": "textWithButton",
 			"text": "<p> 3rd Card data inside tabs </p>",
 			"buttons": [{
