@@ -72,7 +72,7 @@
 	    },
 		"secondaryCta": {
 			"url": "#",
-			"text": "Product Label"
+			"text": "Product very long Label"
 		},
 		"tabs": [{
 			"title": "Overview",
